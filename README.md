@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Omar Hamadou Souleyamane</h1>
 
-crafting seamless user experiences
+Crafting seamless user experiences
 
 
 - 🔭 I’m currently working on [Sahel Coders Plateform](https://sahelcoders.com/)
