@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Hamadou Souleyamane</h1>
+<h1>Hi 👋, I'm Omar Hamadou Souleyamane</h1>
 
 crafting seamless user experiences
 
