@@ -28,4 +28,3 @@ Crafting seamless user experiences
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=omhs-dev&icon=0&color=0)](https://visitcount.itsvg.in)
