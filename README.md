@@ -4,7 +4,7 @@
 
 Frontend-focused software engineering student with an interest in building modern web applications
 
-- 🔭 Currently working with Vue.js
+- 🔭 Working on Advanced Vue.js patterns & Component Systems
 - 🌱 Strengthening my software engineering fundamentals at [42 Heilbronn](https://www.42heilbronn.de/en/)
 
 ---
@@ -15,15 +15,10 @@ Frontend-focused software engineering student with an interest in building moder
 ---
 
 # 🚀 Projects
-<p align="center">
-  <a href="https://github.com/Omhs-dev/ft_transcendence" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omhs-dev&repo=ft_transcendence&theme=dark" alt="ft_transcendence" target="_blank"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Omhs-dev/Webserv0.1" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omhs-dev&repo=Webserv0.1&theme=dark" alt="Webserv0.1"/>
-  </a>
-</p>
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| <a href="https://github.com/Omhs-dev/ft_transcendence"><b>🏓 ft_transcendence</b></a> | A robust online Pong game featuring **real-time multiplayer** via WebSockets, a chat system, and OAuth2 authentication. | **Vue.js, NestJS, PostgreSQL** |
+| <a href="https://github.com/Omhs-dev/Webserv0.1"><b>🌐 Webserv</b></a> | A fully functional **HTTP server written in C++ 98**. Handles GET/POST/DELETE requests, CGI execution, and non-blocking I/O operations. | **C++, Socket API** |
 
 
 ---
