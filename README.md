@@ -16,7 +16,7 @@ Frontend-focused software engineering student with an interest in building moder
 
 # 🚀 Projects
 <p align="center">
-  <a href="https://github.com/Omhs-dev/ft_transcendence">
+  <a href="https://github.com/Omhs-dev/ft_transcendence" target="blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omhs-dev&repo=ft_transcendence&theme=dark" alt="ft_transcendence"/>
   </a>
   &nbsp;&nbsp;
