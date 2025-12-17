@@ -17,7 +17,7 @@ Frontend-focused software engineering student with an interest in building moder
 # Projects
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| <a href="https://github.com/Omhs-dev/ft_transcendence"><b>ft_transcendence</b></a> | An online Pong game featuring **real-time multiplayer** via WebSockets, a chat system, and OAuth2 authentication. | **Vue.js, NestJS, PostgreSQL** |
+| <a href="https://github.com/Omhs-dev/ft_transcendence"><b>ft_transcendence</b></a> | An online Pong game featuring **real-time multiplayer** via WebSockets, a chat system, and OAuth2 authentication. | **Bootstrap, JavaScript, Django** |
 | <a href="https://github.com/Omhs-dev/Webserv0.1"><b>Webserv</b></a> | A fully functional **HTTP server written in C++ 98**. Handles GET/POST/DELETE requests, CGI execution, and non-blocking I/O operations. | **C++, Socket API** |
 
 
