@@ -5,7 +5,7 @@
 Frontend-focused software engineering student with an interest in building modern web applications
 
 - 🔭 Working on Advanced Vue.js patterns & Component Systems
-- 🌱 Strengthening my software engineering fundamentals at [42 Heilbronn](https://www.42heilbronn.de/en/)
+- 🌱 Pursuing Software Engineering Mastery (Specialization) at [42 Heilbronn](https://www.42heilbronn.de/en/)
 
 ---
 
